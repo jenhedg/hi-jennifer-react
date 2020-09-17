@@ -1,10 +1,10 @@
 import React from "react";
 import Page from "./Page";
 
-const Home = () => (
+const Work = () => (
   <Page>
-    <h1>Home</h1>
+    <h1>Work</h1>
   </Page>
 );
 
-export default Home;
+export default Work;
